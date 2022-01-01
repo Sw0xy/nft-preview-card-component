@@ -41,7 +41,7 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://vigilant-swanson-7bf9e8.netlify.app/)
+- Live Site URL: [Netlify Live App](https://vigilant-swanson-7bf9e8.netlify.app/)
 
 ## My process
 
